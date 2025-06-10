@@ -1,0 +1,10 @@
+
+/target/
+
+# Логи
+*.log
+
+# Файлы IDE
+.idea/
+.vscode/
+*.iml
